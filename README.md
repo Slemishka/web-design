@@ -6,4 +6,4 @@ School project for redesigning websites
 
 I've picked https://www.thebeerstore.ca/
 
-
+!()[screenshots/screencapture-file-Volumes-media-Semester2-WEB-DESIGN-final-project-index-html-2021-02-10-20_51_49.png]
